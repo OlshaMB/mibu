@@ -1,0 +1,11 @@
+.{
+    .name = "mibu",
+    .version = "0.0.1",
+    .paths = .{
+        "LICENSE",
+        "build.zig",
+        "build.zig.zon",
+        ".gitignore",
+        "src"
+    }
+}

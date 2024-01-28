@@ -2,7 +2,7 @@
 
 **mibu** is pure Zig library for low-level terminal manipulation.
 
-> Tested with zig version `0.10.0-dev.2978+803376708`
+> Minimum zig version is `2024.1.0-mach`. See [machengine.org/about/nominated-zig](https://machengine.org/about/nominated-zig/)
 
 ## Features
 - Allocation free.
